@@ -93,7 +93,7 @@ we use them for much more than data entry, like:</center>
 
 +++
 
-In this seminar, we’re going to talk about:
+<h4>In this seminar, we’re going to talk about:</h4>
 
 - Good data entry practices - formatting data tables in spreadsheets
 - How to avoid common formatting mistakes
@@ -102,13 +102,13 @@ In this seminar, we’re going to talk about:
 
 +++
 
-In this seminar, we’re NOT going to talk about:
+<h4>In this seminar, we’re NOT going to talk about:</h4>
 - How to do statistics in a spreadsheet
 - How to do plotting in a spreadsheet
 - How to write code in spreadsheet programs
-
+<hr>
 - Data analysis in spreadsheets usually requires a lot of manual work
-- It is also difficult to track or reproduce statistical or plotting analyses done in spreadsheet programs when you want to go back to your work or someone asks for details of your analysis
+- It is also difficult to track or reproduce statistical or plotting analyses done in spreadsheet programs
 ---
 
 <h2>Conclusion</h2>
