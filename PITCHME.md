@@ -141,9 +141,9 @@ Unless you **keep track** of all the changes you made
 
 +++
 
-<h2>Using problematic null values</h2>
+<h2>Problematic null values</h2>
 
-<img src="figures/3_white_table_1.jpg" alt="Drawing" style="height: 400px;"/>
+<img src="figures/3_white_table_1.jpg" alt="Drawing" style="height: 500px;"/>
 
 ---
 
