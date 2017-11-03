@@ -31,9 +31,11 @@ Stress the reproducibility
 - Data you receive from facilities
 - Data you collect from an experiment
 
-<img src="figures/locker.jpeg" alt="Drawing" style="width: 200px;"/>
+<hr>
 
 These data should be store in a safe place and **never** touched!
+
+<img src="figures/locker.jpeg" alt="Drawing" style="width: 200px;"/>
 
 Note:
 Every time you need these data you copy them over
@@ -45,7 +47,7 @@ Every time you need these data you copy them over
 - There are your rawdata after the munging process 
 - These are the data you can play with
 
-<img src="figures/diseasedatavisualization.jpg" alt="Drawing" style="width: 300px;"/>
+<img src="figures/diseasedatavisualization.jpg" alt="Drawing" style="width: 500px;"/>
 
 ---
 
@@ -67,10 +69,21 @@ There are three interrelated rules which make a dataset tidy:
 
 +++
 
-There are main advantages to ensure that your data is tidy:
+There are main advantages in tidy data:
 
 1. **Consistency**
 1. **Semplicity**
 1. **Sharing**
 1. **Data munging**
 1. **Time saving**
+
+
+
+---
+
+<h2>Conclusion</h2>
+
+1. NEVER touch the raw data<!-- .element: class="fragment" --> 
+1. ALWAYS follow the tidy principles<!-- .element: class="fragment" -->
+1. ALWAYS record file metadata<!-- .element: class="fragment" -->
+1. ALWAYS record file process<!-- .element: class="fragment" -->
