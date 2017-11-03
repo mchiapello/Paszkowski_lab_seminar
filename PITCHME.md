@@ -11,6 +11,8 @@
 
 <h2>Data analysis</h2>
 
++++
+
 <img src="figures/data-science-explore.png" alt="Drawing" style="width: 1000px;"/>
 
 Note:
@@ -30,6 +32,8 @@ Stress the reproducibility
 
 <h2>Tidy data</h2>
 
++++
+
 ["Tidy Data paper"](http://www.jstatsoft.org/v59/i10/paper) published in the Journal of Statistical Software
 
 There are three interrelated rules which make a dataset tidy:
@@ -43,8 +47,6 @@ There are three interrelated rules which make a dataset tidy:
 <img src="figures/tidy-1.png" alt="Drawing" style="width: 1000px;"/>
 
 +++
-
-<h2>Tidy data</h2>
 
 There are main advantages to ensure that your data is tidy:
 
