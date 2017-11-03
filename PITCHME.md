@@ -178,8 +178,11 @@ Store data in Excel default file format is **not** a good idea:
 
 +++
 
-<center>Storing data **MUST** be in a universal, open, and static format!</center>
-
+<center>Storing data **MUST** be in a:
+- universal
+- open
+- static format!</center>
+<hr>
 **BEST FORMAT: CSV**
 
 CSV files are plain text files where the columns are separated by commas
