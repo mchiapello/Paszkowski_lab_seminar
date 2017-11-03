@@ -130,7 +130,7 @@ Unless you **keep track** of all the changes you made
 
 <h2>Entering more than one piece of information in a cell</h2>
 
-<img src="figures/multiple-info.png" alt="Drawing" style="height: 420px;"/>
+<img src="figures/multiple-info.png" alt="Drawing" style="height: 380px;"/>
 
 +++
 
