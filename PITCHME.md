@@ -12,3 +12,7 @@
 <h2>Data analysis<h2>
 
 ![image1](figures/data-science-explore.png)
+
++++
+
+<img src="figures/data-science-explore.png" alt="Drawing" style="width: 200px;"/>
