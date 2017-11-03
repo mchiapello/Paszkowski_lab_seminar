@@ -149,7 +149,7 @@ Unless you **keep track** of all the changes you made
 
 <h2>Using formatting to convey information</h2>
 
-<img src="figures/formatting.png" alt="Drawing" style="height: 400px;"/>
+<img src="figures/formatting.png" alt="Drawing" style="height: 400px;"/><!-- .element: class="fragment" -->
 <img src="figures/good_formatting.png" alt="Drawing" style="height: 400px;"/>
 
 +++
