@@ -14,10 +14,17 @@
 <img src="figures/data-science-explore.png" alt="Drawing" style="width: 1000px;"/>
 
 Note:
-Remember to explain why it's for everyone: no sign-up, nothing to install.
-Just MD. Then git-commit.
+Focus on import as **data collection**
+Focus on tidy in spreadsheets
 
 ---
 
 <h2>Tidy data<h2>
 
+There are three interrelated rules which make a dataset tidy:
+
+1. Each variable must have its own column |
+1. Each observation must have its own row |
+1. Each value must have its own cell
+
+---
