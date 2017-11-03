@@ -81,10 +81,34 @@ There are main advantages in tidy data:
 
 <h2>Spreadsheet</h2>
 
++++
+
 <center>Spreadsheets are good for **data entry**
 <h3>BUT</h3>
-we use the for much more than data entry!
+we use them for much more than data entry, like:</center>
 
+- data tables
+- summary statistics
+- make figures
+
++++
+
+In this seminar, we’re going to talk about:
+
+- Good data entry practices - formatting data tables in spreadsheets
+- How to avoid common formatting mistakes
+- Basic quality control and data manipulation in spreadsheets
+- Exporting data from spreadsheets
+
++++
+
+In this seminar, we’re NOT going to talk about:
+- How to do statistics in a spreadsheet
+- How to do plotting in a spreadsheet
+- How to write code in spreadsheet programs
+
+- Data analysis in spreadsheets usually requires a lot of manual work
+- It is also difficult to track or reproduce statistical or plotting analyses done in spreadsheet programs when you want to go back to your work or someone asks for details of your analysis
 ---
 
 <h2>Conclusion</h2>
