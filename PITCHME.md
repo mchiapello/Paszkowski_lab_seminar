@@ -1,10 +1,9 @@
+<center><h2>Tidy data</h2></center>
 
-<center><h2>VERSION CONTROL</h2></center>
-
-<center><h5>Based on: http://swcarpentry.github.io/git-novice/</h5></center>
-<center><h5>Based on: https://www.atlassian.com/git/tutorials/</h5></center>
+<center>Based on: http://r4ds.had.co.nz/tidy-data.html</center>
+<center>Based on: https://mchiapello.github.io/spreadsheet-ecology-lesson/</center>
 <br>
 <br>
 <br>
-<center>This lesson is a basic introduction to version control with RStudio</center>
+<center>This seminar is a basic introduction to tidy data</center>
 
