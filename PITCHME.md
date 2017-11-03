@@ -45,7 +45,7 @@ Every time you need these data you copy them over
 - There are your rawdata after the munging process 
 - These are the data you can play with
 
-<img src="figures/diseasedatavisualization.jpg" alt="Drawing" style="width: 300px;"/>
+<img·src="figures/diseasedatavisualization.jpg"·alt="Drawing"·style="width:·300px;position:absolute;right:0”/>
 
 ---
 
