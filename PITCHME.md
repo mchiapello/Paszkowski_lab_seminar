@@ -35,7 +35,7 @@ Stress the reproducibility
 
 These data should be store in a safe place and **never** touched!
 
-<img src="figures/locker.jpeg" alt="Drawing" style="width: 150px;"/>
+<img src="figures/locker.jpeg" alt="Drawing" style="width: 170px;"/>
 
 Note:
 Every time you need these data you copy them over
@@ -59,9 +59,9 @@ Every time you need these data you copy them over
 
 There are three interrelated rules which make a dataset tidy:
 
-1. Each variable must have its own column <!-- .element: class="fragment" -->
-1. Each observation must have its own row <!-- .element: class="fragment" -->
-1. Each value must have its own cell <!-- .element: class="fragment" -->
+1. Each **variable** must have its own column <!-- .element: class="fragment" -->
+1. Each **observation** must have its own row <!-- .element: class="fragment" -->
+1. Each **value** must have its own cell <!-- .element: class="fragment" -->
 
 +++
 
@@ -77,7 +77,13 @@ There are main advantages in tidy data:
 1. **Data munging**
 1. **Time saving**
 
+---
 
+<h2>Spreadsheet</h2>
+
+<center>Spreadsheets are good for **data entry**
+<h3>BUT</h3>
+we use the for much more than data entry!
 
 ---
 
