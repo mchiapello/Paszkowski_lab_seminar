@@ -79,7 +79,7 @@ There are main advantages in tidy data:
 
 ---
 
-<h2>Spreadsheet</h2>
+<h2>Spreadsheet programs</h2>
 
 +++
 
@@ -122,6 +122,16 @@ Spreadsheet are not reproducible!
 Unless you **keep track** of all the changes you made
 
 <img src="figures/spreadsheet-setup.png" alt="Drawing" style="height: 200px;"/>
+
+---
+
+<h2>Spreadsheet ERRORS</h2>
+
++++
+
+<h2>Using multiple tables</h2>
+
+<img src="figures/2_datasheet_example.jpg" alt="Drawing" style="height: 600px;"/>
 
 
 ---
