@@ -87,13 +87,13 @@ There are main advantages in tidy data:
 <h3>BUT</h3>
 we use them for much more than data entry, like:</center>
 
-- data tables
+- data tables for publication
 - summary statistics
 - make figures
 
 +++
 
-<h4>In this seminar, we’re going to talk about:</h4>
+<h5>In this seminar, we’re going to talk about:</h5>
 
 - Good data entry practices - formatting data tables in spreadsheets
 - How to avoid common formatting mistakes
@@ -102,7 +102,7 @@ we use them for much more than data entry, like:</center>
 
 +++
 
-<h4>In this seminar, we’re NOT going to talk about:</h4>
+<h5>In this seminar, we’re NOT going to talk about:</h5>
 - How to do statistics in a spreadsheet
 - How to do plotting in a spreadsheet
 - How to write code in spreadsheet programs
