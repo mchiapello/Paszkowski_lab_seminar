@@ -153,15 +153,23 @@ Unless you **keep track** of all the changes you made
 
 +++
 
+<h2>Using formatting to make the data sheet look pretty</h2>
+
+Example: merging cells.
+
+<img src="figures/merged.png" alt="Drawing" style="height: 1300px;"/>
+
++++
+
 <h2>Using problematic field names</h2>
 
-<img src="figures/names.png" alt="Drawing" style="height: 500px;"/>
+<img src="figures/names.png" alt="Drawing" style="height: 400px;"/>
 
 +++
 
 <h2>Inclusion of metadata in data table</h2>
 
-<img src="figures/comments.png" alt="Drawing" style="width: 1200px;"/>
+<img src="figures/comments.png" alt="Drawing" style="width: 1300px;"/>
 
 ---
 
