@@ -59,9 +59,9 @@ Every time you need these data you copy them over
 
 There are three interrelated rules which make a dataset tidy:
 
-1. Each **variable** must have its own column <!-- .element: class="fragment" -->
-1. Each **observation** must have its own row <!-- .element: class="fragment" -->
-1. Each **value** must have its own cell <!-- .element: class="fragment" -->
+1. Each variable must have its own column <!-- .element: class="fragment" -->
+1. Each observation must have its own row <!-- .element: class="fragment" -->
+1. Each value must have its own cell <!-- .element: class="fragment" -->
 
 +++
 
