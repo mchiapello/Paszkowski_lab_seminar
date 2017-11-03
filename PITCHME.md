@@ -145,6 +145,17 @@ Unless you **keep track** of all the changes you made
 
 <img src="figures/3_white_table_1.jpg" alt="Drawing" style="height: 500px;"/>
 
++++
+
+<h2>Using formatting to convey information</h2>
+
+<img src="figures/formatting.png" alt="Drawing" style="height: 400px;"/>
+<img src="figures/good_formatting.png" alt="Drawing" style="height: 400px;"/>
+
++++
+
+
+
 ---
 
 <h2>Conclusion</h2>
