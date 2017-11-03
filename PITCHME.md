@@ -35,7 +35,7 @@ Stress the reproducibility
 
 These data should be store in a safe place and **never** touched!
 
-<img src="figures/locker.jpeg" alt="Drawing" style="width: 200px;"/>
+<img src="figures/locker.jpeg" alt="Drawing" style="width: 150px;"/>
 
 Note:
 Every time you need these data you copy them over
