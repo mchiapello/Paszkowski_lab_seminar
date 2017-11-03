@@ -31,8 +31,21 @@ Stress the reproducibility
 - Data you receive from facilities
 - Data you collect from an experiment
 
-<img src="figures/locker.jpeg" alt="Drawing" style="width: 100px;"/>
+<img src="figures/locker.jpeg" alt="Drawing" style="width: 300px;"/>
 
+These data should be store in a safe place and **never** touched!
+
+Note:
+Every time you need these data you copy them over
+
++++
+
+<h2>Clean data</h2>
+
+- There are your rawdata after the munging process 
+- These are the data you can play with
+
+<img src="figures/diseasedatavisualization.jpg" alt="Drawing" style="width: 300px;"/>
 
 ---
 
