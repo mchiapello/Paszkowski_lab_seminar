@@ -129,7 +129,7 @@ Unless you **keep track** of all the changes you made
 
 +++
 
-<h2>Columns for variables and rows for observations</h2>
+<h2>Entering more than one piece of information in a cell</h2>
 
 <img src="figures/multiple-info.png" alt="Drawing" style="height: 450px;"/>
 
@@ -159,6 +159,19 @@ Unless you **keep track** of all the changes you made
 Example: merging cells
 
 <img src="figures/merged.png" alt="Drawing" style="height: 200px;"/>
+
++++
+
+<h2>Using problematic field names</h2>
+
+<img src="figures/names.png" alt="Drawing" style="height: 500px;"/>
+
++++
+
+<h2>Inclusion of metadata in data table</h2>
+
+<img src="figures/comments.png" alt="Drawing" style="width: 1200px;"/>
+
 
 ---
 
