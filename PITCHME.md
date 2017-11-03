@@ -131,7 +131,13 @@ Unless you **keep track** of all the changes you made
 
 <h2>Using multiple tables</h2>
 
-<img src="figures/2_datasheet_example.jpg" alt="Drawing" style="height: 600px;"/>
+<img src="figures/2_datasheet_example.jpg" alt="Drawing" style="height: 500px;"/>
+
++++
+
+<h2>Columns for variables and rows for observations</h2>
+
+<img src="figures/multiple-info.png" alt="Drawing" style="height: 500px;"/>
 
 
 ---
