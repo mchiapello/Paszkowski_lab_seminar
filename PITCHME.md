@@ -9,17 +9,17 @@
 
 ---
 
-<h2>Data analysis<h2>
+<h2>Data analysis</h2>
 
 <img src="figures/data-science-explore.png" alt="Drawing" style="width: 1000px;"/>
 
 Note:
-Focus on import as **data collection**
-Focus on tidy in spreadsheets
+Focus on import as **data entering**
+Focus on tidy in this session
 
 ---
 
-<h2>Tidy data<h2>
+<h2>Tidy data</h2>
 
 There are three interrelated rules which make a dataset tidy:
 
