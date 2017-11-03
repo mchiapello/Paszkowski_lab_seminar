@@ -97,7 +97,6 @@ we use them for much more than data entry, like:</center>
 
 - Good data entry practices - formatting data tables in spreadsheets
 - How to avoid common formatting mistakes
-- Basic quality control and data manipulation in spreadsheets
 - Exporting data from spreadsheets
 
 +++
@@ -131,7 +130,7 @@ Unless you **keep track** of all the changes you made
 
 <h2>Entering more than one piece of information in a cell</h2>
 
-<img src="figures/multiple-info.png" alt="Drawing" style="height: 450px;"/>
+<img src="figures/multiple-info.png" alt="Drawing" style="height: 420px;"/>
 
 +++
 
