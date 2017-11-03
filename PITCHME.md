@@ -149,12 +149,8 @@ Unless you **keep track** of all the changes you made
 
 <h2>Using formatting to convey information</h2>
 
-<img src="figures/formatting.png" alt="Drawing" style="height: 400px;"/><!-- .element: class="fragment" -->
-<img src="figures/good_formatting.png" alt="Drawing" style="height: 400px;"/>
-
-+++
-
-
+<img src="figures/formatting.png" alt="Drawing" style="height: 400px;"/>
+<img src="figures/good_formatting.png" alt="Drawing" style="height: 400px;"/><!-- .element: class="fragment" -->
 
 +++
 
@@ -168,7 +164,25 @@ Unless you **keep track** of all the changes you made
 
 <img src="figures/comments.png" alt="Drawing" style="width: 1200px;"/>
 
+---
 
+<h2>Exporting data</h2>
+
++++
+
+Store data in Excel default file format is **not** a good idea:
+
+1. It is a proprietary format
+1. Other spreadsheet software may not be able to open your files
+1. Different versions of Excel may handle data differently
+
++++
+
+<center>Storing data **MUST** be in a universal, open, and static format!</center>
+
+**BEST FORMAT: CSV**
+
+CSV files are plain text files where the columns are separated by commas
 ---
 
 <h2>Conclusion</h2>
