@@ -157,7 +157,7 @@ Unless you **keep track** of all the changes you made
 
 Example: merging cells.
 
-<img src="figures/merged.png" alt="Drawing" style="height: 1300px;"/>
+<img src="figures/merged.png" alt="Drawing" style="width: 1300px;"/>
 
 +++
 
