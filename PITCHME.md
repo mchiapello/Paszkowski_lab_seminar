@@ -109,6 +109,21 @@ we use them for much more than data entry, like:</center>
 <hr>
 - Data analysis in spreadsheets usually requires a lot of manual work
 - It is also difficult to track or reproduce statistical or plotting analyses done in spreadsheet programs
+
++++
+
+<h5>Reproducibility</h5>
+
+<center>**Reproducibility** is the keyword in science!
+</center>
+
+Spreadsheet are not reproducible! 
+
+Unless you **keep track** of all the changes you made
+
+<img src="figures/spreadsheet-setup.png" alt="Drawing" style="height: 200px;"/>
+
+
 ---
 
 <h2>Conclusion</h2>
