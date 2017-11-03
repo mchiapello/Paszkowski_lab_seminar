@@ -186,6 +186,7 @@ Store data in Excel default file format is **not** a good idea:
 **BEST FORMAT: CSV**
 
 CSV files are plain text files where the columns are separated by commas
+
 ---
 
 <h2>Conclusion</h2>
@@ -194,3 +195,4 @@ CSV files are plain text files where the columns are separated by commas
 1. ALWAYS follow the tidy principles<!-- .element: class="fragment" -->
 1. ALWAYS record file metadata<!-- .element: class="fragment" -->
 1. ALWAYS record file process<!-- .element: class="fragment" -->
+1. ALWAYS export data as CSV files<!-- .element: class="fragment" -->
