@@ -129,16 +129,21 @@ Unless you **keep track** of all the changes you made
 
 +++
 
+<h2>Columns for variables and rows for observations</h2>
+
+<img src="figures/multiple-info.png" alt="Drawing" style="height: 450px;"/>
+
++++
+
 <h2>Using multiple tables</h2>
 
 <img src="figures/2_datasheet_example.jpg" alt="Drawing" style="height: 500px;"/>
 
 +++
 
-<h2>Columns for variables and rows for observations</h2>
+<h2>Using problematic null values</h2>
 
-<img src="figures/multiple-info.png" alt="Drawing" style="height: 500px;"/>
-
+<img src="figures/3_white_table_1.jpg" alt="Drawing" style="height: 400px;"/>
 
 ---
 
