@@ -191,7 +191,9 @@ CSV files are plain text files where the columns are separated by commas
 
 <h2>Conclusion</h2>
 
-1. NEVER touch the raw data<!-- .element: class="fragment" --> 
++++
+
+1. NEVER touch the raw data
 1. ALWAYS follow the tidy principles<!-- .element: class="fragment" -->
 1. ALWAYS record file metadata<!-- .element: class="fragment" -->
 1. ALWAYS record file process<!-- .element: class="fragment" -->
