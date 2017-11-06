@@ -1,0 +1,7 @@
+- Table contains recorded data from micrographs.
+- Every time vecicles were observed the cell wall thickness was recorded in 6 points
+
+Labels:
+- HEVs => Hyphae with fungal EVs
+- CWT  => Cell Wall thickness
+- Rep  => Sample name
