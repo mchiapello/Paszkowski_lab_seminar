@@ -13,6 +13,10 @@
 
 +++
 
+<img src="figures/thenamiracleoccurs.jpg" alt="Drawing" style="width: 1000px;"/>
+
++++
+
 <img src="figures/data-science-explore.png" alt="Drawing" style="width: 1000px;"/>
 
 Note:
