@@ -1,3 +1,7 @@
+NEVER work on raw data file 
+
+0. In cell B4 the number is saved as text => converted to number
+    - The mean in cell H4 changed
 1. Split merged cells B2:G2
 2. Cells B3:G5 contain the same variable, so they should be in the same column
 3. Called the new column CWT (Cell Wall Thickness)
@@ -5,4 +9,3 @@
 5. We do not need the Mean column (H)
 6. Renamed column A: HEVs (Hyphae with fungal EVs)
 7. The table name became a Column in the table
-8. There is a value recorded as text an not as a number => fix it
